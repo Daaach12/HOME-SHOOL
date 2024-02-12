@@ -160,3 +160,6 @@ x[4] - оценка
     s = ','.join((str(hash_str(x[1])), x[1], x[2], x[3], x[4])) + '\n'
     print(s)
     fout.write(s)
+#ewerwerwrwerrwerwrewerwerw
+#dggggg
+#gdgdfgdf
